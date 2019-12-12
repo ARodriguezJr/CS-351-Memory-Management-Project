@@ -12,8 +12,7 @@ Program language used: C++
 To run:
  - open linux terminals
  - type "g++ main.cpp -o test"
- - type "./test"
- - 
+ - type "./test" 
  
  Contributions:
   - Daniel: coding, testing, readme
