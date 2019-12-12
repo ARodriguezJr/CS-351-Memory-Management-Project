@@ -1,4 +1,4 @@
-# Project 1
+# Project 2
 
 Section #2
 
@@ -11,7 +11,7 @@ Program language used: C++
 
 To run:
  - open linux terminals
- - type "++ main.cpp -o test"
+ - type "g++ main.cpp -o test"
  - type "./test"
  - 
  
