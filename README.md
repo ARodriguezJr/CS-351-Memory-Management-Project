@@ -20,5 +20,6 @@ To run:
   - Omar: documentation, testing, coding 
   - Alberto: testing, design, coding
 
+![Screen Shot](https://github.com/ARodriguezJr/CS-351-Memory-Management-Project/blob/master/screenshots/screenshot1.png)
 ![Screen Shot](https://github.com/ARodriguezJr/CS-351-Memory-Management-Project/blob/master/screenshots/screenshot2.png)
 
